@@ -1,2 +1,2 @@
-👋 Hi, I’m @OishiMula
-- Yeah I'll get on this soon - enjoy!
+Oishi Mula here - Web3 Dev & Crypto Degen<br>
+Working with mainly JS & Python 
